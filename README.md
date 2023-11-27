@@ -20,6 +20,9 @@ With 6 year of experience with technology. I've had the opportunity to work on v
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# 🌐 Socials:
+# 🌐 My Socials:
 <a href="https://instagram.com/franca_caio" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://linkedin.com/in/caio-frança-a7898214a/" target="_blank"><img loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+# 🌐 My Company Socials:
+<a href="https://linkedin.com/company/f1rstdigitalservices/mycompany" target="_blank"><img loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
