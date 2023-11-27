@@ -1,6 +1,6 @@
 ## 😁 Hi there 👋
 
-I'm Caio França, and I love software developement and automation proccess (I'm Eletrical and Automation Engineer). I currently work as a Team Lead at F1rst Digita Service (Santander Brazil). With 6 year of experience with technology working with hardware development and software development on various exciting projects and explore different technologies.
+I'm Caio França, and I love software developement and automation proccess (I'm Eletrical and Automation Engineer). I currently work as a Team Lead at F1rst DigitaL Service (Santander Brazil). With 6 year of experience with technology working with hardware development and software development on various exciting projects and explore different technologies.
 
 ## 🎯 Expertise 📈
 
