@@ -6,7 +6,11 @@ I'm Caio França, and I love software developement and automation proccess (I'm 
 
 With technology in his blood and passionate about the financial market, he sees the junction of these two worlds as the construction of a fair and promising society. I strongly believes that empathy and honest and sincere communication are the key to ending conflicts and building bridges between the most diverse people and cultures.
 
-Today, as your greatest ambition, you want to advance your career, always thinking about impacting as many people as possible by generating value in processes and products that have a life of their own, independent of their presence.
+In my professional journey I worked as a technology teacher teaching computer science and programming to children, teenagers and university students. I had the opportunity to work on international projects for the automation of industrial turbines for power generation, where as the main result I developed a sales standard used worldwide.
+
+With a step closer to technology and the financial world, I worked to support digital channels (mobile banking, internet banking), with development of Java/Spring applications for collecting and persisting business data, reaching the role of responsible squad leader by collecting transactional data, sending and transformed with python/spark into a data lake, used both to feed transactional journeys and business analysis for decision making.
+
+Today, as greatest ambition, I want to advance in my career, always thinking about impacting as many people as possible by generating value in processes and products that have a life of their own, independent of their presence.
 
 ## 🖥 Tech Stack ⚙
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
