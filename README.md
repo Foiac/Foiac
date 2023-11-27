@@ -25,4 +25,4 @@ With 6 year of experience with technology. I've had the opportunity to work on v
 <a href="https://linkedin.com/in/caio-frança-a7898214a/" target="_blank"><img loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 # 🌐 My Company Socials 💼:
-<a href="https://linkedin.com/company/f1rstdigitalservices/mycompany" target="_blank"><img loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://linkedin.com/company/f1rstdigitalservices" target="_blank"><img loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
