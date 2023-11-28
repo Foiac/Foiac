@@ -1,16 +1,16 @@
 ## 😁 Hi there 👋
 
-I'm Caio França, and I love software developement and automation proccess (I'm Eletrical and Automation Engineer). I currently work as a Team Lead at F1rst DigitaL Service (Santander Brazil). With 6 year of experience with technology working with hardware development and software development on various exciting projects and explore different technologies.
+I'm Caio França, and I love software development and automation processes. I'm an Electrical and Automation Engineer currently working as a Team Lead at F1rst Digital Service (Santander Brazil). With 6 years of experience in technology, I've been involved in hardware and software development, exploring various exciting projects with different technologies.
 
 ## 🎯 Expertise 📈
 
-With technology in his blood and passionate about the financial market, he sees the junction of these two worlds as the construction of a fair and promising society. I strongly believes that empathy and honest and sincere communication are the key to ending conflicts and building bridges between the most diverse people and cultures.
+With technology in my blood and a passion for the financial market, I see the intersection of these two worlds as the construction of a fair and promising society. I strongly believe that empathy, honest, and sincere communication are the keys to resolving conflicts and building bridges between the most diverse people and cultures.
 
-In my professional journey I worked as a technology teacher teaching computer science and programming to children, teenagers and university students. I had the opportunity to work on international projects for the automation of industrial turbines for power generation, where as the main result I developed a sales standard used worldwide.
+In my professional journey, I worked as a technology teacher, teaching computer science and programming to children, teenagers, and university students. I had the opportunity to contribute to international projects for the automation of industrial turbines for power generation. As the main result, I developed a sales standard that started to be used worldwide.
 
-With a step closer to technology and the financial world, I worked to support digital channels (mobile banking, internet banking), with development of Java/Spring applications for collecting and persisting business data, reaching the role of responsible squad leader by collecting transactional data, sending and transformed with python/spark into a data lake, used both to feed transactional journeys and business analysis for decision making.
+Taking a step closer to technology and the financial world, I worked to support digital channels (mobile banking, internet banking), developing Java/Spring applications for collecting and persisting business data. I reached the role of responsible squad leader by overseeing the collection of transactional data, which was then sent, transformed with Python/Spark, and loaded into a data lake. This data lake serves both to fuel transactional journeys and for business analysis to support decision making.
 
-Today, as greatest ambition, I want to advance in my career, always thinking about impacting as many people as possible by generating value in processes and products that have a life of their own, independent of their presence.
+Today, as my greatest ambition, I aim to advance in my career, always considering the impact on as many people as possible by generating value in processes and products that have a life of their own, independent of my presence
 
 ## 🖥 Tech Stack ⚙
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
