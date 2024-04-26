@@ -32,3 +32,8 @@ Today, as my greatest ambition, I aim to advance in my career, always considerin
 
 ## 🌐 My Company 💼:
 <a href="https://linkedin.com/company/f1rstdigitalservices" target="_blank"><img loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="caio-frança-a7898214a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/caio-fran%C3%A7a-a7898214a?trk=profile-badge">Caio França</a></div>
+
